@@ -1,0 +1,8 @@
+.home__left{
+    margin:184px;
+}
+.home__ninja_img{
+    background: rgba(0, 0, 0, 0.5);
+    box-shadow: 0 10px 20px -6px  #000;
+    opacity: -2;
+}
